@@ -18,7 +18,7 @@ invariant install @invariant--labs/foundation
 
 ## Author
 
-invariant-labs
+invariant.guru
 
 ## License
 

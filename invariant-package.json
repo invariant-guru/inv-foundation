@@ -1,8 +1,8 @@
 {
-  "name": "@invariant-labs/foundation",
+  "name": "@invariant.guru/foundation",
   "version": "1.1.1",
   "description": "DDD and Clean Architecture foundation library for NestJS applications.",
-  "author": "invariant-labs",
+  "author": "invariant.guru",
   "license": "MIT",
   "items": {
     "rules": [{ "name": "clean-architecture", "description": "Clean Architecture layer dependency rules for the foundation library." }],
